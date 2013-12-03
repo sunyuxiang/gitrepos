@@ -9,6 +9,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("ok");
 		System.out.println("good");
+		System.out.println("qinshi jia de !");
 	}
 
 }
