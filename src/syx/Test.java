@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("ok");
 		System.out.println("good");
 		System.out.println("qinshi jia de !");
+		System.out.println("1004");
 	}
 
 }
